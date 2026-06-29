@@ -49,7 +49,8 @@ git clone https://github.com/MdUsmanKhans/Landing-page-for-fashion-web.git
 
 ## Screenshots
 
-Add screenshots here if available.
+<img width="1600" height="3493" alt="web pic" src="https://github.com/user-attachments/assets/3c4bd507-a1ff-47d5-958f-04537b25685a" />
+
 
 ## Author
 
